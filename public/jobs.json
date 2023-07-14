@@ -1,0 +1,118 @@
+ [
+      {
+        "id": 1,
+        "img": "../src/assets/google.png",
+        "position": "Technical Database Engineer",
+        "company": "Google LLC",
+        "jobDescription": "As a Technical Database Engineer, you will be responsible for designing, implementing, and maintaining database systems. You will work closely with cross-functional teams to understand business requirements and provide database solutions. Your expertise in database management systems, such as Oracle, MySQL, and MongoDB, and experience with database design and development will be essential in ensuring data security and integrity.",
+        "jobRes": " Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "requirements": "Bachelor degree to complete any reputational university.",
+        "experience": "2-3 Years in this field.",
+        "jobTypes": [
+          {
+            "type": "Remote",
+            "status": "Full Time"
+          }
+        ],
+        "place": "Dhaka, Bangladesh",
+        "salary": "100K-150K"
+      },
+      {
+        "id": 2,
+        "img": "../src/assets/netflix.png",
+        "position": "Software Developer",
+        "company": "Microsoft",
+        "jobDescription": "As a Software Developer, you will be responsible for designing, coding, and modifying software applications according to client or project requirements. You will collaborate with cross-functional teams to understand user needs and translate them into functional software solutions. Your expertise in programming languages, such as Java, C++, or Python, and experience with software development methodologies will be crucial in delivering high-quality, scalable, and maintainable code.",
+        "requirements": "Bachelor degree to complete any reputational university.",
+        "experience": "2-3 Years in this field.",
+        "jobTypes": [
+          {
+            "type": "On-site",
+            "status": "Full Time"
+          }
+        ],
+        "place": "Seattle, USA",
+        "salary": "90K-120K"
+      },
+      {
+        "id": 3,
+        "img": "../src/assets/tesla.png",
+        "position": "Data Scientist",
+        "company": "Amazon",
+        "jobDescription": "As a Data Scientist, you will be responsible for analyzing complex datasets, extracting insights, and providing valuable recommendations to drive data-driven decision-making. You will work closely with cross-functional teams to understand business objectives and develop analytical models and experiments. Your expertise in statistical analysis, programming languages (such as Python or R), and data visualization will be essential in uncovering patterns and trends from large volumes of data.",
+        "jobRes": " Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "requirements": "Bachelor degree to complete any reputational university.",
+        
+        "experience": "2-3 Years in this field.",
+        "jobTypes": [
+          {
+            "type": "Remote",
+            "status": "Full Time"
+          }
+        ],
+        "place": "London, UK",
+        "salary": "80K-110K"
+      },
+      {
+        "id": 4,
+        "img": "../src/assets/google.png",
+        "position": "Frontend Developer",
+        "company": "Facebook",
+        "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "jobRes": " Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "requirements": "Bachelor degree to complete any reputational university.",
+        "experience": "2-3 Years in this field.",
+        "jobTypes": [
+          {
+            "type": "Remote",
+            "status": "Part Time"
+          }
+        ],
+        "place": "San Francisco, USA",
+        "salary": "70K-90K"
+      },
+      {
+        "id": 5,
+        "img": "../src/assets/netflix.png",
+        "position": "UX Designer",
+        "company": "Apple",
+        "jobRes": " Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "As a Data Scientist, you will be responsible for analyzing complex datasets, extracting insights, and providing valuable recommendations to drive data-driven decision-making. You will work closely with cross-functional teams to understand business objectives and develop analytical models and experiments. Your expertise in statistical analysis, programming languages (such as Python or R), and data visualization will be essential in uncovering patterns and trends from large volumes of data.",
+        "requirements": "Bachelor degree to complete any reputational university.",
+        "experience": "2-3 Years in this field.",
+        "jobTypes": [
+          {
+            "type": "On-site",
+            "status": "Full Time"
+          }
+        ],
+        "place": "Cupertino, USA",
+        "salary": "100K-130K"
+      },
+      {
+        "id": 6,
+        "img": "../src/assets/google.png",
+        "position": "Backend Engineer",
+        "company": "Netflix",
+        "jobRes": " Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "requirements": "Bachelor degree to complete any reputational university.",
+        "experience": "2-3 Years in this field.",
+        "jobTypes": [
+          {
+            "type": "Remote",
+            "status": "Full Time"
+          }
+        ],
+        "place": "Los Gatos, USA",
+        "salary": "120K-150K"
+      }
+    ]
+
+  
+  
+  
+  
+  
+  
+  

@@ -1,0 +1,22 @@
+.details-head{
+    font-size: 16px;
+    font-weight: 800;
+    color: #1A1919;
+    margin-bottom: 25px;
+
+    
+}
+.card{
+    background-image: linear-gradient(to right, #FFFFFF, #4a5fe20a);
+    border-radius: 8px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+}
+.details-pargrp{
+    font-size: 16px;
+    margin-bottom: 25px;
+    color: #757575;
+}
+.brdr{
+    border-bottom: 1px solid #E0E0E0;
+   
+}

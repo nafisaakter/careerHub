@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+  font-family: 'Manrope', sans-serif;
+}
+.color-dark{
+  color: #1A1919
+}
+.color-purple{
+  color:#7E90FE;
+}
+.color-white{
+  color: #FFFFFF;
+}
+.color-gray{
+  color: #757575;
+}
+.bg{
+  background-color: rgba(126, 144, 254, 0.05);
+}
+.my-btn{
+  
+  background-image: linear-gradient(to right, #7E90FE, #9873FF);
+  color:#FFFFFF;
+  font-size: 20px;
+  font-weight: 800;
+  border-radius: 8px;
+  padding: 19px 28px;
+}

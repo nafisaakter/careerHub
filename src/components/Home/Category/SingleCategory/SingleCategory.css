@@ -1,0 +1,15 @@
+.sigle-box{
+    height: 240px;
+    width: 320px;
+    border: 1px solid none;
+    border-radius: 10px;
+
+}
+.ico-bg{
+    height: 80px;
+    width: 80px;
+    border-radius: 8px;
+   
+    background-color: rgba(126, 144, 254, 0.10);
+   
+}
